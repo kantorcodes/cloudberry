@@ -20,7 +20,7 @@
 """
 Apache Cloudberry MCP Server Implementation
 
-A Model Communication Protocol server for Apache Cloudberry database interaction
+A Model Context Protocol server for Apache Cloudberry database interaction
 providing resources, tools, and prompts for database management.
 """
 
