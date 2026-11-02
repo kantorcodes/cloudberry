@@ -19,7 +19,7 @@
 
 # Apache Cloudberry MCP Server
 
-A Model Communication Protocol (MCP) server for Apache Cloudberry database interaction, providing secure and efficient database management capabilities through AI-ready interfaces.
+A Model Context Protocol (MCP) server for Apache Cloudberry database interaction, providing secure and efficient database management capabilities through AI-ready interfaces.
 
 ## Features
 
